@@ -6,6 +6,7 @@ TensorFlow / Keras
 CNN
 NumPy
 Computer Vision
+
 Overview
 The Ocular Disease Detection project aims to automate the diagnosis of various eye diseases using deep learning techniques. The project utilizes the ODIR dataset, which includes fundus images of patients with Diabetes, Glaucoma, Cataract, Related Macular Degeneration, Myopia, Hypertensive Retinopathy, and other eye conditions. The objective is to build a robust and accurate system for identifying ocular diseases from fundus images.
 
